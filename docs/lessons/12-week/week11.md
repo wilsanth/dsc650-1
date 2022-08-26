@@ -43,4 +43,4 @@ Compress-Archive -Path assignment10 -DestinationPath 'assignment11_DoeJane.zip
 
 ## Discussion Board
 
-For this discussion, pick an area of big data or deep learning that we did discuss in-depth and explain why you find it exciting. Topics include, but are not limited to Kubernetes, deep learning hardware, and cloud computing. Write a 250 to 750-word discussion board post to describe this topic.
+You are required to have a minimum of 10 posts each week.  Similar to previous courses, any topic counts towards your discussion count, as long as you are active more than 2 days per week with 10 posts, you will receive full credit. 

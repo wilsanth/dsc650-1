@@ -234,7 +234,7 @@ Compress-Archive -Path assignment04 -DestinationPath 'assignment04_DoeJane.zip
 
 ## Discussion
 
-For this discussion, describe a batch workflow use case that you would run on a daily, weekly, or monthly basis. What are the inputs and the outputs? 
+You are required to have a minimum of 10 posts each week.  Similar to previous courses, any topic counts towards your discussion count, as long as you are active more than 2 days per week with 10 posts, you will receive full credit. 
 
 [apache-airflow]: https://airflow.apache.org/docs/stable/
 [apache-oozie]: https://oozie.apache.org/

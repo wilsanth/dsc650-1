@@ -193,7 +193,7 @@ We briefly talked about different data indexing strategies including B-Trees, LS
 
 [apache-arrow]: https://arrow.apache.org/docs/python/
 [avro-getting-started]: https://avro.apache.org/docs/current/gettingstartedpython.html
-[apache-parquet]: https://parquet.apache.org/documentation/latest/
+[apache-parquet]: https://parquet.apache.org/docs/
 [apache-thrift]: https://thrift.apache.org/
 [avro-docs]: https://avro.apache.org/docs/current/
 [fastavro]: https://fastavro.readthedocs.io/en/latest/

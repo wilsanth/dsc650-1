@@ -61,4 +61,6 @@ Compress-Archive -Path assignment05 -DestinationPath 'assignment05_DoeJane.zip
 
 ## Discussion Board
 
-For this discussion, write a 250 to 750-word discussion board post about how you would implement a similar deep learning workflow for a use case that is applicable to your professional or personal interests.  In this use case, how often would you need to train the models? How would you deploy the models? Use the DSC 650 Slack channel for discussion and replies.  For grading purposes, copy and paste your initial post and at least two replies to the Blackboard discussion board. 
+You are required to have a minimum of 10 posts each week.  Similar to previous courses, any topic counts towards your discussion count, as long as you are active more than 2 days per week with 10 posts, you will receive full credit. Refer to the optional topic below as a starting place. 
+
+Post about how you would implement a similar deep learning workflow for a use case that is applicable to your professional or personal interests.  In this use case, how often would you need to train the models? How would you deploy the models? 

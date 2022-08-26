@@ -226,7 +226,7 @@ You can create this archive on your local machine using Bash (or a similar Unix 
 
 ## Discussion
 
- For this discussion, write a 250 to 750-word discussion board post about use cases from different data models.  As an example, how could you use a graph database in one of your professional or personal projects? Try to focus on a use case relevant to your professional or personal interests.  Use the DSC 650 Slack channel for discussion and replies.  For grading purposes, copy and paste your initial post and at least two replies to the Blackboard discussion board. 
+You are required to have a minimum of 10 posts each week.  Similar to previous courses, any topic counts towards your discussion count, as long as you are active more than 2 days per week with 10 posts, you will receive full credit. 
 
 [hbase-data-model]: https://hbase.apache.org/book.html#datamodel
 [keras]: https://keras.io/

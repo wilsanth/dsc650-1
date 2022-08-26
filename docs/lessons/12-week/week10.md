@@ -94,7 +94,7 @@ Compress-Archive -Path assignment10 -DestinationPath 'assignment10_DoeJane.zip
 
 ## Discussion Board
 
-For this discussion, pick one of the following topics and write a 250 to 750-word discussion board post. Use the DSC 650 Slack channel for discussion and replies.  For grading purposes, copy and paste your initial post and at least two replies to the Blackboard discussion board. 
+You are required to have a minimum of 10 posts each week.  Similar to previous courses, any topic counts towards your discussion count, as long as you are active more than 2 days per week with 10 posts, you will receive full credit. Refer to the optional topics below as a starting place.
 
 ### Topic 1
 

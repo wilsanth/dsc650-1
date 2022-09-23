@@ -18,7 +18,7 @@ pygal = "^2.4.0"
 pyarrow = "^0.17.0"
 jupyter = "^1.0.0"
 luigi = {version = "^2.8.13", extras = ["toml"]}
-protobuf = "^3.11.3"
+protobuf = "^3.18.3"
 tensorflow = "^2.1.0"
 # See https://github.com/tensorflow/tensorflow/issues/37525
 tensorflow-estimator = "==2.1.0"
